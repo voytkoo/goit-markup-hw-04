@@ -57,7 +57,7 @@ color: #2E2F42;
     display: flex;
     gap: 40px
 }
-.studio {
+.header_list.studio {
 position: relative;
 color: #404bbf;
 }
@@ -85,7 +85,7 @@ color: #404bbf;
 }
 .header_list:hover,
 .header_list:focus {
-    color: #404BBF;
+    color: #404bbf;
 }
 
 
