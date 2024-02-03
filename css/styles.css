@@ -298,9 +298,6 @@ color: #2E2F42;
     letter-spacing: 0.02em;  
     text-align: center;
 }
-/* .team-group-icon { */
-    
-
 .icon-group {
     display: flex;
     justify-content: center;
@@ -318,7 +315,7 @@ color: #2E2F42;
     display: flex;
     align-items: center;
     justify-content: center;
-    transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
+    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 
 }
 .team-icon-link:hover, 
