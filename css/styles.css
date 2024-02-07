@@ -125,6 +125,8 @@ margin-left: auto;
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .title {
@@ -302,6 +304,7 @@ color: #2E2F42;
     display: flex;
     justify-content: center;
     gap: 24px;
+    margin-top: 8px;
 }
 .team-list-icon {
     width: 40px;
@@ -358,8 +361,6 @@ color: #2E2F42;
     transition: box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .portfolio-card:hover {
-    border: 1px solid #F4F4FD;
-    background:  #FFF;
     box-shadow: 0px 2px 1px 0px rgba(46, 47, 66, 0.08),
         0px 1px 1px 0px rgba(46, 47, 66, 0.16),
         0px 1px 6px 0px rgba(46, 47, 66, 0.08);
@@ -451,7 +452,6 @@ padding: 100px 0;
     width: 264px;
 } 
 .text-container {
-    margin-left: 120px;
 
 }
 .icon-text {
